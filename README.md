@@ -12,14 +12,31 @@ Telemetry Harbor dashboards deliver actionable insights through thoughtfully cur
 - **Rich Visualization Options**: From time-series graphs to real-time status panels, the dashboards cover a wide range of monitoring needs.  
 - **Customizable Layouts**: Adapt visualizations to match the specific metrics and KPIs relevant to your project.  
 - **Seamless Integration**: Dashboards align with Telemetry Harbor’s ecosystem for smooth and efficient workflows.  
-- **User-Centric Design**: Prioritizes clarity, usability, and actionable insights to enhance decision-making.  
+- **User-Centric Design**: Prioritizes clarity, usability, and actionable insights to enhance decision-making.
+
 
 ## Example Use Cases  
 
 - Monitoring sensor data streams in real-time.  
 - Visualizing historical trends to identify patterns.  
 - Analyzing system health and performance metrics.  
-- Gaining insights into operational efficiency and resource utilization.  
+- Gaining insights into operational efficiency and resource utilization.
+
+
+## How to Use  
+
+To start using the dashboards:  
+
+1. Open the JSON file for the desired dashboard in this repository.  
+2. Copy the contents of the JSON file to your clipboard.  
+3. Log in to your Grafana instance.  
+4. Navigate to **Dashboards** > **New Dashboard** > **Import**.  
+5. Select **Import via dashboard JSON** and paste the JSON content.  
+6. Click **Import** to load the dashboard.  
+
+Once imported, the dashboard will be available for use and can be customized to match your project’s specific requirements.  
+
+
 
 ## Contribution  
 
